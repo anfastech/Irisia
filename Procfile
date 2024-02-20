@@ -1,1 +1,1 @@
-web: gunicorn app:app --python=3.9
+web: gunicorn app:app
