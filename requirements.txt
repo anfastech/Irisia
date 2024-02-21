@@ -2,4 +2,4 @@ pandas==2.2.0
 Flask==3.0.2
 numpy==1.26.4
 gunicorn==21.2.0
-scikit_learn==1.4.1
+scikit_learn==1.4.1.post1
