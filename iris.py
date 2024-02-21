@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import pickle
+# scikit_learn==1.4.1
+
 
 df = pd.read_csv('iris.data')
 
